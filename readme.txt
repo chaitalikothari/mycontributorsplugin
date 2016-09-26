@@ -1,5 +1,3 @@
-# mycontributorsplugin
-
 === My Contibutors Plugin ===
 Contributors: Chaitali Kothari 
 Tags: wordpress,plugin,metabox,contributors,posts
@@ -32,4 +30,3 @@ You will find Contributors metabox on posts in dashboard.
 1. Displays contributors checkbox on posts page in daahboard.
 
 2. Frontend display of contributors on single post page.
-
